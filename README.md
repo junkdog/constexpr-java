@@ -63,7 +63,6 @@ public class Exhibit {
         <groupId>net.onedaybeard.constexpr</groupId>
         <artifactId>constexpr-api</artifactId>
         <version>0.1.0</version>
-        <scope>provided</scope>
     </dependency>
 </dependencies>
 
