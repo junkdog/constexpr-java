@@ -4,7 +4,7 @@
 
 	<groupId>net.onedaybeard.constexpr</groupId>
 	<artifactId>constexpr-parent</artifactId>
-	<version>0.1.0</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>constexpr root</name>
 
@@ -24,7 +24,7 @@
 		<url>https://github.com/junkdog/constexpr-java/</url>
 		<connection>scm:git:git@github.com:junkdog/constexpr-java.git</connection>
 		<developerConnection>scm:git:git@github.com:junkdog/constexpr-java.git</developerConnection>
-	  <tag>constexpr-0.1.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<distributionManagement>
