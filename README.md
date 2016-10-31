@@ -8,7 +8,7 @@ Simulates `constexpr` from C++11, build-time code-execution, from
 > compile time.
 
 
-#### Buy Why?
+#### But Why?
 - embed build-time variables directly into class files
 - naive string obfuscation
 - maven's resource filtering can be clunky for certain use-cases 
