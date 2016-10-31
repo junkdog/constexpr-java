@@ -31,6 +31,16 @@ public final class TestUtil {
 		return sw.toString();
 	}
 
+	public static String toString(byte[] bytes) {
+		StringWriter sw = new StringWriter();
+		PrintWriter pw = new PrintWriter(sw);
+
+		AsmUtil.classReader(bytes).accept(
+			new TraceClassVisitor(pw), ClassReader.EXPAND_FRAMES);
+
+		return sw.toString();
+	}
+
 	public static String toString(Class<?> type, String method) {
 		return toString(type, method, null);
 	}
