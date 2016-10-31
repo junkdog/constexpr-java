@@ -123,5 +123,5 @@ Running the plugin should result in output similar to:
 
 
  [cppref]: http://en.cppreference.com/w/cpp/language/constexpr
- [ps-java]: https://github.com/junkdog/constexpr-java/commit/d4ad613fb6dbc8a9b762af8407f0d9963485ae94#diff-9be75303fcd37e3cd5009c507e445313
+ [ps-java]: https://github.com/junkdog/constexpr-java/blob/d4ad613fb6dbc8a9b762af8407f0d9963485ae94/core/src/test/java/net/onedaybeard/constexpr/model/PlainString.java
  [diff]: https://github.com/junkdog/constexpr-java/compare/reference-before...reference-after#diff-f98d296c19afdc978656a8813c42be81
