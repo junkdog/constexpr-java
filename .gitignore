@@ -1,0 +1,17 @@
+*.DS_Store
+*.swp
+*.class
+*.out
+*~
+*.kate-swp
+*.releaseBackup
+*.iml
+bin/
+target/
+.classpath
+.project
+.settings/
+.factorypath
+.idea/
+*.jar
+
