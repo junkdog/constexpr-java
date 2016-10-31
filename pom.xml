@@ -8,7 +8,7 @@
 	<packaging>pom</packaging>
 	<name>constexpr root</name>
 
-	<description>List implemention with fast traversal and head insertions.</description>
+	<description>Build-time code-execution for java, a bit like constexpr in C++11</description>
 	<url>https://github.com/junkdog/ConstExpr</url>
 
 	<prerequisites>
